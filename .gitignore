@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local variables that we do not want committed
+local.py
+data_dump.json
+
+# Project Files
+.project
+.pydevproject
